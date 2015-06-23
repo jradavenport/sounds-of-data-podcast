@@ -1,0 +1,29 @@
+Episode: Setting the Stage
+
+
+- a point made at Thinking With Your Eyes 
+		http://visualize.fas.harvard.edu/DFC/speakers.html
+	by Peter Bol 
+		http://scholar.harvard.edu/pkbol/
+	what are we going to do with data visualization for the blind? 
+	This is a very interesting question!
+
+	- On the one hand we have [Data Sonification], where we match data to audio
+		- many examples from Alex Parker
+		- example from Earthquake viz/audio after Japan
+			https://www.youtube.com/watch?v=eKp5cA2sM28
+
+	- some people say data viz cannot be made accessible fully (e.g. Stephen Few)
+		http://www.perceptualedge.com/blog/?p=1756
+
+	- On the other hand, we could discuss or express data results 
+		big history of this from radio journalism
+
+- how to enable scientific exploration for the blind?
+
+- there is a similarity in my mind between the attempts at high order data visualization and visualization to the blind.
+
+- a big problem in outreach access here. how to communicate scientific results with the blind? Especially senses of scale in astronomy!
+
+
+What is this podcast series about? What are the goals?
