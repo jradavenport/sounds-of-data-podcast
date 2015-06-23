@@ -1,0 +1,33 @@
+Episode: Data Sonification: Analysis
+
+
+A joke in astronomy about Jodie Foster sitting around the VLA with headphones. Often imitated. But raises a useful Q: how could you be a blind radio astronomer working for SETI?
+
+
+What can your ear measure: can locate (rough but useful), hear volume (coarse), and tone/pitch. This is the same number of properties your eye can instantaneously measure: location, intensity, color/freq. Eyes can also detect motion
+
+Q: what is frequency resolution of ears?
+
+Q: eyes can see and process large volume of things at once, how much can ears understand at once?
+
+
+Some say data visualization cannot be made full for the ears
+http://www.perceptualedge.com/blog/?p=1756
+
+
+An international community for auditory display of information
+http://www.icad.org
+
+
+
+The color of noise
+https://en.wikipedia.org/wiki/Colors_of_noise
+
+Revisit sorting algorithms
+
+Revisit some of the sonification from Alex?
+
+Software tools like SoniPy
+http://sourceforge.net/projects/sonipy/
+
+
