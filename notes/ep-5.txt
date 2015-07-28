@@ -1,33 +1,26 @@
-Episode: Data Sonification: Analysis
+Episode: Data Sonification: Presentation
+
+Sonification page from NASA Goddard
+http://spdf.gsfc.nasa.gov/research/sonification/
 
 
-A joke in astronomy about Jodie Foster sitting around the VLA with headphones. Often imitated. But raises a useful Q: how could you be a blind radio astronomer working for SETI?
+Sound of sorting algorithms
+http://flowingdata.com/2010/09/01/what-different-sorting-algorithms-sound-like/
 
 
-What can your ear measure: can locate (rough but useful), hear volume (coarse), and tone/pitch. This is the same number of properties your eye can instantaneously measure: location, intensity, color/freq. Eyes can also detect motion
-
-Q: what is frequency resolution of ears?
-
-Q: eyes can see and process large volume of things at once, how much can ears understand at once?
+Listen to Wikipedia
+http://listen.hatnote.com
 
 
-Some say data visualization cannot be made full for the ears
-http://www.perceptualedge.com/blog/?p=1756
+Supernova Sonata (Alex Parker)
+https://vimeo.com/23927216
 
-
-An international community for auditory display of information
-http://www.icad.org
+Six-Planet Sonata (Alex Parker)
+https://vimeo.com/44945226
 
 
 
-The color of noise
-https://en.wikipedia.org/wiki/Colors_of_noise
-
-Revisit sorting algorithms
-
-Revisit some of the sonification from Alex?
-
-Software tools like SoniPy
-http://sourceforge.net/projects/sonipy/
-
-
+Sound of LHC
+http://lhcsound.hep.ucl.ac.uk
+some others
+http://fasos-research.nl/sonic-skills/2014/03/26/new-podcast-on-sonification/

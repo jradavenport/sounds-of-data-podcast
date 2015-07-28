@@ -1,26 +1,10 @@
-Episode: Data Sonification: Presentation
+Episode: An audio tour of a telescope
 
-Sonification page from NASA Goddard
-http://spdf.gsfc.nasa.gov/research/sonification/
+What does APO sound like? Someplace I've spent a long time at.
 
-
-Sound of sorting algorithms
-http://flowingdata.com/2010/09/01/what-different-sorting-algorithms-sound-like/
-
-
-Listen to Wikipedia
-http://listen.hatnote.com
-
-
-Supernova Sonata (Alex Parker)
-https://vimeo.com/23927216
-
-Six-Planet Sonata (Alex Parker)
-https://vimeo.com/44945226
-
-
-
-Sound of LHC
-http://lhcsound.hep.ucl.ac.uk
-some others
-http://fasos-research.nl/sonic-skills/2014/03/26/new-podcast-on-sonification/
+Sounds to collect:
+- Sound of Dome Opening (beeps and motors)
+- Sounds of Telescope moving (quiet)
+- Sound of outside at night
+- Sound of thunderstorm if possible
+- Sound of TUI, maybe a chat w/ R.Owens about why the sounds

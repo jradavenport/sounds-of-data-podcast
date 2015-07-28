@@ -1,29 +1,33 @@
-Episode: Visually Impaired Scientists
-
-All interesting to think about what is possible, but what is actually happening?!
-
-Chat with a couple if possible!
-
-My first CSE TA was blind:
-Sangyun Hahn
+Episode: Data Sonification: Analysis
 
 
-Listening to SETI from Contact was based on Kent Cullers
-https://en.wikipedia.org/wiki/Kent_Cullers
-Believed to be the first astronomer blind from birth
+A joke in astronomy about Jodie Foster sitting around the VLA with headphones. Often imitated. But raises a useful Q: how could you be a blind radio astronomer working for SETI?
 
 
-Wanda Diaz Merced
-http://womeninastronomy.blogspot.com/2015/03/the-normalcy-curve.html
+What can your ear measure: can locate (rough but useful), hear volume (coarse), and tone/pitch. This is the same number of properties your eye can instantaneously measure: location, intensity, color/freq. Eyes can also detect motion
+
+Q: what is frequency resolution of ears?
+
+Q: eyes can see and process large volume of things at once, how much can ears understand at once?
 
 
-Can blind people be astronomers?
-https://nfb.org/images/nfb/publications/fr/fr9/fr03co23.htm
+Some say data visualization cannot be made full for the ears
+http://www.perceptualedge.com/blog/?p=1756
 
-above written by Bernhard Beck-Winchatz
-http://csh.depaul.edu/faculty-staff/faculty-a-z/Pages/stem-studies/bernhard-beck-winchatz.aspx
+
+An international community for auditory display of information
+http://www.icad.org
 
 
 
-Still a big struggle for students who want to study science
-http://www.universityworldnews.com/article.php?story=20140819120003685
+The color of noise
+https://en.wikipedia.org/wiki/Colors_of_noise
+
+Revisit sorting algorithms
+
+Revisit some of the sonification from Alex?
+
+Software tools like SoniPy
+http://sourceforge.net/projects/sonipy/
+
+
