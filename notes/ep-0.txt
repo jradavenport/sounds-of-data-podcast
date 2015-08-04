@@ -27,3 +27,6 @@ Episode: Setting the Stage
 
 
 What is this podcast series about? What are the goals?
+- started as learning about data analysis w/o vision
+- morphing in to also an audio tour of being a scientist
+- share sounds, info, data. readers of my blog will probably 
